@@ -10,9 +10,13 @@
 > installed on your system. To install pip, type the
 > following set of commands:
 >
-> > 1. `sudo apt-get upgrade`
-> > 2. `sudo apt-get update`
-> > 3. `sudo apt-get install pip`
+> > `1. sudo apt-get upgrade
+> >  2. sudo apt-get update`
+> 
+> Once the update is complete, type the following
+> command
+> 
+> > `sudo apt-get install pip`
 >
 > Once you are done installing pip, you should be able
 > to install numpy
