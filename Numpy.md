@@ -10,8 +10,8 @@
 > installed on your system. To install pip, type the
 > following set of commands:
 >
-> > `1. sudo apt-get upgrade.
-> >  2. sudo apt-get update`
+> > `1. sudo apt-get upgrade.`
+> > `2. sudo apt-get update`
 > 
 > Once the update is complete, type the following
 > command
