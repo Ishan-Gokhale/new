@@ -1,4 +1,4 @@
-#### Here's my todo list for today
+### Here's my todo list for today
 
 1. Read ESP32 WROOM 32 datasheet
 2. List down the chip's basic capbilities, basic programs
