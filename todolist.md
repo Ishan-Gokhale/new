@@ -1,4 +1,4 @@
-## Here's my todo list for today
+## Here's my to-do list for today
 
 **1. Read ESP32 WROOM 32 datasheet.**
 
