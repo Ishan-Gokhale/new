@@ -1,7 +1,6 @@
 ## Here's my todo list for today
 
-**1. Read ESP32 WROOM 32 datasheet.**
-      1. List down the chip's basic capbilities, basic programs.
+**1. Read ESP32 WROOM 32 datasheet.**1. List down the chip's basic capbilities, basic programs.
 **3. Understand markdown language.**
    1. Create .md documents.
    2. Explore table structures, code blocks, images and links addition.
